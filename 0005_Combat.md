@@ -595,7 +595,7 @@ Une attaque de balayage est effectuée en appliquant un jet d’attaque unique c
 
 Les bonds offensifs sont surtout utilisés dans le cadre d’une embuscade ou pour conclure une charge. Certaines créatures ont même la capacité de bondir sur un adversaire sans avoir besoin d’une course d’élan ou d’une position surélevée.
 
-Une attaque par bond est résolue par un jet différentiel d’Athlétisme contre la Force Brute ou l’Esquive du défenseur. Si la cible est un quadrupède, la difficulté du jet de l’attaquant augmente d’un niveau. Si le défenseur échoue, il se retrouve automatiquement à terre, avec l’attaquant à califourchon sur lui. Si l’attaque échoue, le défenseur a évité ou bien a résisté à l’impact. Si le vainqueur obtient une différence d’un niveau de réussite ou plus sur son adversaire, il peut choisir des effets spéciaux adaptés comme en combat normal.
+Une attaque par bond est résolue par un jet d'opposition d’Athlétisme contre la Force Brute ou l’Esquive du défenseur. Si la cible est un quadrupède, la difficulté du jet de l’attaquant augmente d’un niveau. Si le défenseur échoue, il se retrouve automatiquement à terre, avec l’attaquant à califourchon sur lui. Si l’attaque échoue, le défenseur a évité ou bien a résisté à l’impact. Si le vainqueur obtient une différence d’un niveau de réussite ou plus sur son adversaire, il peut choisir des effets spéciaux adaptés comme en combat normal.
 
 Le saut lui-même n’inflige aucun dégât. Mais la victime au sol ne peut se relever que si son agresseur la libère, ou si elle obtient l’effet spécial Se Redresser. En outre, les bonds offensifs ne fonctionnent que contre des adversaires dont la TAI ne dépasse pas deux fois celle de l’attaquant. En utilisant l’action Renforcer sa Position, la cible devient plus difficile à renverser, à condition d’avoir conscience de l’attaque imminente.
 
@@ -617,9 +617,9 @@ Dans les situations où la couverture est totale, mais où l’attaquant pense q
 
 ### Esquive
 
-Esquiver au cours d’un combat consiste à se jeter sur le côté pour éviter une attaque. Une telle action nécessite un jet différentiel entre la compétence Esquive du défenseur et la compétence appropriée de l’attaquant. Cela peut être n’importe quoi, de la compétence Conduite d’un char de combat lancé à pleine vitesse à la compétence de lancer de sort d’un magicien. Si l’attaquant l’emporte, il inflige les dégâts habituels. Si le défenseur gagne, les dégâts sont complètement évités.
+Esquiver au cours d’un combat consiste à se jeter sur le côté pour éviter une attaque. Une telle action nécessite un jet d'opposition entre la compétence Esquive du défenseur et la compétence appropriée de l’attaquant. Cela peut être n’importe quoi, de la compétence Conduite d’un char de combat lancé à pleine vitesse à la compétence de lancer de sort d’un magicien. Si l’attaquant l’emporte, il inflige les dégâts habituels. Si le défenseur gagne, les dégâts sont complètement évités.
 
-Si le vainqueur du jet différentiel obtient un ou plusieurs niveaux de réussite de plus que son adversaire, il peut choisir des effets spéciaux adaptés, comme en combat normal. Quel que soit le résultat, l’esquive laisse le défenseur au sol, l’obligeant en général à utiliser l’action Se Redresser au tour suivant.
+Si le vainqueur du jet d'opposition obtient un ou plusieurs niveaux de réussite de plus que son adversaire, il peut choisir des effets spéciaux adaptés, comme en combat normal. Quel que soit le résultat, l’esquive laisse le défenseur au sol, l’obligeant en général à utiliser l’action Se Redresser au tour suivant.
 
 ## Manœuvrer
 
@@ -819,4 +819,5 @@ Exemples d’armes à distance
 | Fusil de Gauss | 2d8 + 2  | N  | E      | 150/500/5000 | 3     | –   | –     |
 | Javelot        | 1d8 + 1  | O  | TG     | 10/20/50     | –     | M   | 3/8   |
 | Pierre         | 1d3      | O  | P      | 5/10/20      | –     | –   | –     |
+
 | Pistolet       | 1d6      | N  | G      | 50/100/200   | 2     | –   | –     |
